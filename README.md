@@ -1,7 +1,8 @@
-[![Build Status](https://travis-ci.org/emacski/k8s-app-config.svg?branch=master)](https://travis-ci.org/emacski/k8s-app-config)
+# DEPRECATED
 
-k8s-app-config
---------------
+This project is **obsolete** and no longer maintained.
+
+## k8s-app-config
 
 A very simple application config helper CLI utility. Useful for bootstrapping applications in kubernetes where the
 application needs to be aware of the runtime state of other components in kubernetes.
